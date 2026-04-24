@@ -1,7 +1,7 @@
 import React from "react";
 function Disable_forwarding(){
     const disableforward=(){
-        window.location.href="tel:##21"
+        window.location.href="tel:##21#"
     };
     return (
         <div style={styles.container}>
